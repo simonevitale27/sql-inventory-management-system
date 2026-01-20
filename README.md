@@ -27,7 +27,8 @@ Sistema completo per la gestione di:
 ## Architettura Database
 
 ### Schema ER
-![Schema ER](database/schema/ER_diagram.png)
+![SCHEMA E:R](https://github.com/user-attachments/assets/1a008504-61c5-41f1-ae08-b86569bea3d8)
+diagram.png)
 
 ### Tabelle Principali
 - `categoria`: Classificazione prodotti
